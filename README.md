@@ -10,5 +10,7 @@
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 |  <img src="https://github.com/Daaviiidd/FCT-Zaitec/blob/main/imagenes/formulario.png" style="height: 50%; width:50%;"/>  |  <img src="https://github.com/Daaviiidd/FCT-Zaitec/blob/main/imagenes/registro.png" style="height: 50%; width:50%;"/>  |
 
+## 👨‍💻 Autor
 
+Desarrollado por **[Carlos Andrade]**.
 
